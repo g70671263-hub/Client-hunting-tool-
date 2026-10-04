@@ -1,0 +1,6 @@
+{
+  "name": "SkillRadar",
+  "description": "Analyze businesses across countries to match your skills, identify opportunities, and discover hiring needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
